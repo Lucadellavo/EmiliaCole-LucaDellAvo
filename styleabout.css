@@ -1,0 +1,58 @@
+#homebody{
+    background-image: url(https://nelsonbarrios.github.io/Emilia-Cole/img/emilia-about.jpg);
+    background-position:right;
+    background-repeat: no-repeat;
+    background-size: 1000px 800px;
+    background-attachment: fixed;
+}
+ .Emi{
+    font-family: 'Raleway', sans-serif;
+    color:black;
+    font-size: 55px;
+    position: relative;
+    top: 150px;
+ }
+
+ .HOME {
+    font-family: 'Raleway', sans-serif;
+    color: gray;
+    position: relative;
+    left: 20px;
+ }
+div{
+    position: relative;
+    left: 20px;
+}
+#Velde1{
+    color:darkcyan;
+    position: relative;
+    font-size: 40px;
+    top: 200px;
+    font-family: 'Raleway', sans-serif;
+
+}
+#Subvelde1{
+    color:darkcyan;
+    position: relative;
+    font-size: 15px;
+    top: 210px;
+    font-family: 'Raleway', sans-serif;
+    
+    font-weight: lighter;
+}
+#Velde2{
+    color:darkcyan;
+    position: relative;
+    font-size: 40px;
+    top: 230px;
+    font-family: 'Raleway', sans-serif;
+    
+}
+#Subvelde2{
+    color:darkcyan;
+    position: relative;
+    font-size: 15px;
+    top: 240px;
+    font-family: 'Raleway', sans-serif;
+    font-weight: lighter;
+}

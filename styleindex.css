@@ -1,0 +1,33 @@
+
+#homebody{
+    background-image:url(https://nelsonbarrios.github.io/Emilia-Cole/img/emilia-about.jpg);
+    background-position: right;
+    background-repeat: no-repeat;
+    background-size: 1000px 800px;
+    background-attachment: fixed;
+}
+    .Titulos{
+        font-family: 'Raleway', sans-serif;
+        font-size: 85px;
+        background-color:white;
+        top: 320px;
+        position: relative;
+    }
+ .Emi{
+    font-family: 'Raleway', sans-serif;
+    color: black;
+    font-size: 35px;
+    position: relative;
+    top: 190px;
+ }
+
+ .HOME {
+    font-family: 'Raleway', sans-serif;
+    color: gray;
+    position: relative;
+    left: 18px;
+ }
+div{
+    position: relative;
+    left: 18px;
+}
